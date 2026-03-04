@@ -1,0 +1,5 @@
+- 전체
+  - https://velog.io/@dkan9634/AI-Engineering-Chap-1.-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EB%AA%A8%EB%8D%B8%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-AI-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%9E%85%EB%AC%B8
+- 3장
+  - https://github.com/0ssamaak0/ai-engineering-book/blob/main/3_evaluation_methodology.md
+  - https://github.com/alokpadhi/AI-Engineering/blob/main/2_evaluation_methodology.md
